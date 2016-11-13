@@ -1,0 +1,92 @@
+commit 8195b330696fb06bfff44456ab633aa21b29d81b
+Author: Thej.Kodiyat <tkodiyat01@gmail.com>
+Date:   Sat Nov 12 17:09:22 2016 -0800
+
+    Readding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..f762286
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++graduation year: 2016, first job title: Salesforce developer
+
+commit d380e41f2dce1220dd7a90cd4456ba73db75c60e
+Author: Thej.Kodiyat <tkodiyat01@gmail.com>
+Date:   Sat Nov 12 16:47:27 2016 -0800
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 6dfb9f1..06b2cfb 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+ Name: Thej Sojan Kodiyat, major: Computer engineering, restaurant: Dominos, movie: x-men
++favorite color: green
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index f762286..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-graduation year: 2016, first job title: Salesforce developer
+
+commit 96181eaec00dde9c919584c30633b33b46864d19
+Author: Thej.Kodiyat <tkodiyat01@gmail.com>
+Date:   Sat Nov 12 16:40:39 2016 -0800
+
+    file2.txt created
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..f762286
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++graduation year: 2016, first job title: Salesforce developer
+
+commit f474f0fc65757560513f6e215faa18758cb6940c
+Author: Thej.Kodiyat <tkodiyat01@gmail.com>
+Date:   Sat Nov 12 16:30:00 2016 -0800
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index d9815ab..6dfb9f1 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Name: Thej Sojan Kodiyat, major: Computer engineering
++Name: Thej Sojan Kodiyat, major: Computer engineering, restaurant: Dominos, movie: x-men
+
+commit 6be19fd0c7cfe9b029b071e2f0a453575b1b63e0
+Author: Thej.Kodiyat <tkodiyat01@gmail.com>
+Date:   Sat Nov 12 16:24:11 2016 -0800
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index adce97b..d9815ab 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Name: Thej Sojan Kodiyat, Student ID: 89177
+\ No newline at end of file
++Name: Thej Sojan Kodiyat, major: Computer engineering
+
+commit 8e75292a2c95ae201449a1ad6229d7129bb75995
+Author: Thej.Kodiyat <tkodiyat01@gmail.com>
+Date:   Sat Nov 12 16:18:02 2016 -0800
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..adce97b
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Name: Thej Sojan Kodiyat, Student ID: 89177
+\ No newline at end of file
